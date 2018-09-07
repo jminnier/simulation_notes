@@ -1,6 +1,6 @@
 # Statistical Simulation
 
-This is to provide some references on simulation in statistical modeling and methods research.
+This is a collection of references on simulation in statistical modeling and methods research, with practical examples for coding in R (and occasionally other statistical programming languages).
 
 # Books & Educational Materials
 
@@ -12,7 +12,7 @@ This is to provide some references on simulation in statistical modeling and met
 Givens, G. H. and Hoeting, J. A. (2013). Simulation and Monte Carlo Integration. In Computational Statistics (eds G. H. Givens and J. A. Hoeting). doi:10.1002/9781118555552.ch6 
 
 - [book](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118555552); [chapter 6 link](https://onlinelibrary.wiley.com/doi/10.1002/9781118555552.ch6#)
-- introduces Monte Carlo methods
+- introduces Monte Carlo methods and sampling methods in the context of statistics and probability distributions
 
 ## Other references
 
