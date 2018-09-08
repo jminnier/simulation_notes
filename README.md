@@ -14,6 +14,14 @@ Givens, G. H. and Hoeting, J. A. (2013). Simulation and Monte Carlo Integration.
 - [book](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118555552); [chapter 6 link](https://onlinelibrary.wiley.com/doi/10.1002/9781118555552.ch6#)
 - introduces Monte Carlo methods and sampling methods in the context of statistics and probability distributions
 
+## Coursera R Programming (Hopkins; Roger Peng et al)
+
+[Simulation - Generating Random Numbers](https://www.coursera.org/lecture/r-programming/simulation-generating-random-numbers-Q2xkZ)
+
+[Simulation - Simulating a Linear Model](https://www.coursera.org/lecture/r-programming/simulation-simulating-a-linear-model-u7in9)
+
+[Simulation - Random Sampling](https://www.coursera.org/lecture/r-programming/simulation-random-sampling-ykXUb)
+
 ## Other references
 
 W. J. Braun and D. J. Murdoch, A First Course in Statistical Programming with R. Cambridge: Cambridge University Press, 2007.
